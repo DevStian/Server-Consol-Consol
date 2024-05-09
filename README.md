@@ -1,4 +1,4 @@
-UDP Chat Application
+# UDP Chat Application
 This project is a simple chat application implemented in Java using the User Datagram Protocol (UDP).
 
 Description:
